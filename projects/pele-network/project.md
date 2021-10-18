@@ -1,6 +1,6 @@
 ---
 name: PELE Network
-description: "PELE Network facilitates creative collaborations, offers tools for community incentivization, and keeps registries for reputation and creator verification."
+description: "PELE Network is a DAO facilitating creative collaborations, offering tools for community incentivization, and keeping badge registries for reputation."
 logo: pele-logo.svg
 categories: dapp,app,nft,metaverse,dao
 status: live
