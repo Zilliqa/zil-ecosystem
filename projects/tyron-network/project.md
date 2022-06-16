@@ -1,6 +1,6 @@
 ---
 name: TYRON Network
-description: A network of self-sovereign identities (SSI) made of user-owned smart contracts. A SSI includes a digital wallet and a decentralized identity to give you complete control over your data and finances.
+description: A network of decentralized identities that centres the control of information around you, the user. Your SSI has a Web3 wallet to give you complete control over your data and finance, powered by the online security of Zilliqa and W3C Decentralized Identifiers (DIDs).
 categories: wallet,defi,stablecoin,token,dao,governance
 status: Live
 website: https://www.tyron.network/
