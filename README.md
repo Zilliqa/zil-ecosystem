@@ -1,6 +1,15 @@
 # Zilliqa Ecosystem
 
-This repository is the data source for the Zilliqa Ecosystem page located at [zilliqa.com/ecosystem](https://zilliqa.com/ecosystem). Here, you can populate the latest projects being built or are active in the Zilliqa ecosystem.
+> **Update on 24 March 2022** <br>
+> In order to gather data to update [dappradar.com](http://dappradar.com/) with a comprehensive list of Zilliqa dApps and their stats, we now require eligible dApps built on Zilliqa to provide some additional information as follows:
+>
+> - full description of your project
+> - mobile-friendly (Y/N)
+> - smart contract address(es)
+> - video
+> - screenshot(s)
+
+This repository is the data source for the Zilliqa Ecosystem page located at [zilliqa.com/ecosystem](http://zilliqa.com/ecosystem), and it will also be used to update the list of Zilliqa dApps on [dappradar.com](http://dappradar.com/). Here, you can populate the latest projects being built or are active in the Zilliqa ecosystem.
 
 # Contributing Guidelines
 
@@ -10,8 +19,7 @@ To add a project to our ecosystem, please structure your folder with the guideli
 
 # Folder Structure
 
-Every project will have their own named folder in the projects diretory cosisting of 2 files. A `project.md` file and a `logo_image_file`.
-Name your folder with `kebab-case`.
+Every project will have their own named folder in the projects directory consisting of 2 mandatory files - a `project.md` file and a `logo_image_file`, as well as an optional `screenshots` folder. Name your folder with `kebab-case`.
 
 ### Structure
 
@@ -19,6 +27,7 @@ Name your folder with `kebab-case`.
 your-project-name
   - project.md
   - your-logo.png
+  - screenshots/
 ```
 
 ### project.md
@@ -41,6 +50,9 @@ tags go here
 (required) name: The name of the project
 (required) date: The date of project addition
 (required) description: The one line summary of the project and its integration to Zilliqa
+(optional) full_description: The detailed description about what your project is about
+(optional) mobile_friendly: Whether your project website is mobile optimised [y|n]
+(optional) smart_contract_addresses: A comma separated list of addresses
 (required) logo: all image files must by 100x100px
 (required) categories: A comma separated list of categories describing the project
 (required) status: The status of the project: [live | building]
@@ -48,6 +60,7 @@ tags go here
 (optional) website: URL to the website
 (optional) telegram: URL to Telegram channel
 (optional) discord: URL to Discord invite
+(optional) video: A url link to a video publically available online
 ---
 ```
 
@@ -60,6 +73,9 @@ tags go here
   name: 
   date: 
   description: 
+  full_description: 
+  mobile_friendly: 
+  smart_contract_addresses: 
   logo: 
   categories: 
   status: 
@@ -67,6 +83,7 @@ tags go here
   website: 
   telegram: 
   discord: 
+  video: 
   ---
   ```
 </details>
@@ -84,11 +101,11 @@ tags go here
 
 # Categories
 
-### api
+#### api
 
-### app
+#### app
 
-### custody
+#### custody
 
 #### dao
 
@@ -131,6 +148,8 @@ tags go here
 #### prediction
 
 #### sdk
+
+#### social
 
 #### stablecoin
 

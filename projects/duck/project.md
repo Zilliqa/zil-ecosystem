@@ -5,6 +5,6 @@ categories: nft,dapp
 status: Live
 twitter: https://twitter.com/zilduck?lang=en
 website: https://duck.community
-discord: False
-telegram: False
+discord: https://discord.gg/FaE7cmfGq2
+telegram: https://t.me/zilduck
 ---
