@@ -1,10 +1,10 @@
 ---
 name: ZilSwap
 description: The DeFi hub of Zilliqa.
+full_description:
 ```
-full_description: 
 Launched in October 2020, ZilSwap is a fully on-chain, decentralised exchange running on the Zilliqa network. The DEX — governed by ZWAP holders — strives to deliver an unrivaled experience for users looking to trade tokens and NFTs, earn liquidity rewards, participate in initial liquidity offerings, and bridge their assets between the Zilliqa and Ethereum networks.
-ZilSwap underwent a rebranding exercise and a dashboard rehaul in mid-2021 and have continued to strengthen its position as the DeFi hub of Zilliqa with the release of the following key features since: 
+ZilSwap underwent a rebranding exercise and a dashboard rehaul in mid-2021 and have continued to strengthen its position as the DeFi hub of Zilliqa with the release of the following key features. 
 - Swap & Pool: Allows users to swap tokens and provide liquidity on their favourite token pairs while earning liquidity mining rewards.
 - ZilBridge: A bridge connecting the Zilliqa and Ethereum networks.
 - ARKY: ZilSwap’s very own NFT marketplace designed for Artists and Collectors alike.
