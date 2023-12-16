@@ -4,7 +4,7 @@ description: A flexible cross-chain tool set able to give any NFT new functional
 categories: nft,web3,tools, defi,oracle
 status: Live
 twitter: https://twitter.com/Envelop_project
-website: https://envelop.is/
+website: https://app.envelop.is/zilliqa#/
 discord: https://discord.gg/gtYcjqq76f
 telegram: https://t.me/envelop_en
 ---
