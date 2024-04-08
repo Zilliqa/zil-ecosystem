@@ -6,5 +6,5 @@ status: Building
 twitter: https://twitter.com/Token_Traxx
 website: https://tokentraxx.com/
 discord: https://discord.com/invite/JyA7H4DyjG
-telegram: https://t.me/tokentraxx
+telegram: https://t.me/TokenTraxxMusic
 ---
